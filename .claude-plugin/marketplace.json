@@ -8,6 +8,11 @@
       "name": "deep-review",
       "source": "./plugins/deep-review",
       "description": "Thorough multi-pass code review with sequential gate logic"
+    },
+    {
+      "name": "ux-tools",
+      "source": "./plugins/ux-tools",
+      "description": "UX evaluation toolkit: Nielsen heuristic analysis and branded PDF report generation"
     }
   ]
 }

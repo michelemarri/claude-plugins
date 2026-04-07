@@ -1,0 +1,9 @@
+{
+  "name": "ux-tools",
+  "description": "UX evaluation toolkit: Nielsen heuristic analysis and branded PDF report generation",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michele Marri"
+  },
+  "license": "MIT"
+}
