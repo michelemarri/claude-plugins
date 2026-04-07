@@ -1,0 +1,9 @@
+{
+  "name": "deep-review",
+  "description": "Thorough multi-pass code review skill with sequential gate logic",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michele Marri"
+  },
+  "license": "MIT"
+}

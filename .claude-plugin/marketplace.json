@@ -1,0 +1,13 @@
+{
+  "name": "mitch-plugins",
+  "owner": {
+    "name": "Michele Marri"
+  },
+  "plugins": [
+    {
+      "name": "deep-review",
+      "source": "./plugins/deep-review",
+      "description": "Thorough multi-pass code review with sequential gate logic"
+    }
+  ]
+}
