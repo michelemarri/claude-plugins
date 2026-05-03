@@ -13,6 +13,15 @@
       "name": "ux-tools",
       "source": "./plugins/ux-tools",
       "description": "UX evaluation toolkit: Nielsen heuristic analysis and branded PDF report generation"
+    },
+    {
+      "name": "remember",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Digital-Process-Tools/claude-remember.git",
+        "ref": "main"
+      },
+      "description": "Continuous memory for Claude Code — tracks upstream main"
     }
   ]
 }
